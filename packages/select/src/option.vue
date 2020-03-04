@@ -38,7 +38,7 @@
         type: Boolean,
         default: false
       },
-      tagType: String,
+      tagType: String
     },
 
     data() {
